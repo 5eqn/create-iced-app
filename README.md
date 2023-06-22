@@ -1,2 +1,9 @@
 # create-iced-app
-Initialize ready-to-develop instantly.
+
+Creates an Iced starter template with a counter example.
+
+Usage:
+
+```shell
+./create.sh <project-name>
+```
